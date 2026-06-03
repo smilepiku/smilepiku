@@ -3,7 +3,7 @@
 🔭 I'm currently building Android Apps, Websites & Python Projects  
 🌱 I'm learning Mobile Development & Full Stack Web Dev  
 💬 Ask me about Android, Python, JavaScript  
-📫 Reach me at: your-email@gmail.com  
+📫 Reach me at: parthibchowdhury757@gmail.com
 📍 Arambagh, West Bengal  
 
 ## 🛠️ Tech Stack
